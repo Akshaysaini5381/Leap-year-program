@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32228.547
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Leap year program", "Leap year program\Leap year program.csproj", "{6B340DAE-8716-4A50-920F-B8B569934905}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6B340DAE-8716-4A50-920F-B8B569934905}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6B340DAE-8716-4A50-920F-B8B569934905}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6B340DAE-8716-4A50-920F-B8B569934905}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6B340DAE-8716-4A50-920F-B8B569934905}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {27F2FCEE-F620-4E58-ABB1-78402880DB8A}
+	EndGlobalSection
+EndGlobal
